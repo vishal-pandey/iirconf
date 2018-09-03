@@ -2226,7 +2226,9 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 
-
+.v-table{
+  width: 100%;
+}
 .v-table tr td, .v-table tr th{
   padding: 10px;
 }
