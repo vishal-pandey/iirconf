@@ -113,7 +113,7 @@ ul li, ol li {
   bottom: 8px;
   width: 48px;
   height: 1px;
-  background-color: #E91E63;
+  /*background-color: #E91E63;*/
 }
 
 .section-title:after {
@@ -123,7 +123,7 @@ ul li, ol li {
   bottom: 2px;
   width: 48px;
   height: 1px;
-  background-color: #E91E63;
+  /*background-color: #E91E63;*/
 }
 
 .section-title:before, .section-title:after {
