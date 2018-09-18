@@ -2136,19 +2136,22 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #main-slide .carousel-item .carousel-caption .heading {
-  font-size: 48px;
+  font-size: 28px;
   font-weight: 700;
   /*color: #fff;*/
   color: black;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   margin-top: 30px;
+  text-align: right;
+  float: right;
 }
 
 #main-slide .carousel-item .carousel-caption p {
-  font-size: 30px;
+  font-size: 20px;
   line-height: 50px;
   font-weight: bold;
+  text-align: left;
 }
 
 #main-slide .carousel-item.active .carousel-caption {
